@@ -1,6 +1,6 @@
 
 ### PERHATIAN
-- Terima kasih untuk tidak menjual maupun mengenkripsi skrip ini. Saya mendapatkan secara gratis, jadi saya ataupun kalian harus berbagi secara gratis.
+- Terima kasih Telah menggunakan scrip kyt projek
 - Script ini **tidak direkomendasikan untuk bermain game**.
 - Status servis terkadang miss informasi. Dimana pada status dead tetapi jika dilihat by servis statusnya sudah aktif. Jadi bisa diabaikan
 - Jika mendapatkan error pada status servis dalam jangka panjang, bisa restart servis yang dead.
@@ -16,7 +16,8 @@
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
-- Xray Core by [@dharak36](https://github.com/dharak36/Xray-core)
+- Xray Core by [@MyRidwan](https://github.com/myridwan/abc)
+
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
 
@@ -54,5 +55,5 @@
 Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 
 ### Credits
-- [Dharak36](https://github.com/dharak36/Xray-core)
+- [MyRidwan](https://github.com/myridwan/abc)
 - [Tiarap](https://github.com/pengelana/blocklist)
